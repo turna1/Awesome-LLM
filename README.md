@@ -5,7 +5,9 @@
 
 🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
 ## Trending LLM Survey Repo
+-[Multimoal LLM](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 -[Video Understanding](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
 
 ## Trending LLM Projects
 - [Omost](https://github.com/lllyasviel/Omost) - a project to convert LLM's coding capability to image generation (or more accurately, image composing) capability.
