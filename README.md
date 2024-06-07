@@ -4,24 +4,9 @@
 ![](resources/image8.gif)
 
 🔥 Large Language Models (LLMs) have captured the attention of the Whole World. In the realm of railway defect inspection using Generative AI within the Digital Twin paradigm, grasping how LLMs process multimodal data is vital. Understanding this process is key to developing systems that can seamlessly integrate and analyze varied data sources, such as images, texts, and sensor data, enhancing the accuracy and efficiency of defect detection. This curated collection features pivotal research on LLMs, focusing on ChatGPT, and details frameworks for training, tools for deployment, and educational resources.
-## Trending Survey Repo on LLM
--[Multimoal LLM](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
--[LLM Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent?tab=readme-ov-file)
-
--[Video Understanding](https://github.com/Shubhamsaboo/awesome-llm-apps)
-
--[LLM-Safety](https://github.com/ydyjya/Awesome-LLM-Safety)
-
-## Trending LLM Projects
-- [Omost](https://github.com/lllyasviel/Omost) - a project to convert LLM's coding capability to image generation (or more accurately, image composing) capability.
-- [llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3.
-- [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - A GPT-4V Level Multimodal LLM on Your Phone.
-- [fabric](https://github.com/danielmiessler/fabric) - an open-source framework for augmenting humans using AI.
-
-## Table of Content
-
-- [Awesome-LLM ](#awesome-llm-)
+# Table of Content
+  - [Milestone Papers](#milestone-papers)
   - [Milestone Papers](#milestone-papers)
   - [Other Papers](#other-papers)
   - [LLM Leaderboard](#llm-leaderboard)
@@ -34,6 +19,89 @@
   - [LLM Books](#llm-books)
   - [Great thoughts about LLM](#great-thoughts-about-llm)
   - [Miscellaneous](#miscellaneous)
+
+## Trending Survey Repo on LLM
+-[Multimoal LLM](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+
+-[LLM Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent?tab=readme-ov-file)
+
+-[Video Understanding](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
+-[LLM-Safety](https://github.com/ydyjya/Awesome-LLM-Safety)
+
+## LLM by Modality
+
+### 👀 Vision
+
+#### 🖼 Image
+
+- **Understanding**
+  - [VLM_survey](https://github.com/jingyi0000/VLM_survey)
+  - [LLM-in-Vision](https://github.com/DirtyHarryLYL/LLM-in-Vision)
+  - [CVinW_Readings](https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings)
+  - [Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)
+- **Generation**
+  - [Awesome-VQVAE](https://github.com/rese1f/Awesome-VQVAE)
+  - [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
+  - [Awesome-Controllable-Diffusion](https://github.com/atfortes/Awesome-Controllable-Diffusion)
+  - [Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation)
+
+#### 📺 Video
+
+- [Awesome-Video-Datasets](https://github.com/xiaobai1217/Awesome-Video-Datasets)
+- [Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)
+- [i2vgen-xl](https://github.com/damo-vilab/i2vgen-xl)
+
+#### 📷 3D
+
+- [awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)
+- [Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D)
+- [Awesome-3D-Vision-and-Language](https://github.com/jianghaojun/Awesome-3D-Vision-and-Language)
+
+#### 📰 Document
+
+- [Awesome Document Understanding](https://github.com/tstanislawek/awesome-document-understanding)
+
+### 👂 Audio
+
+- [Audio-AI-Timeline](https://github.com/archinetai/audio-ai-timeline)
+
+### 🔧 Agent
+
+- **Agent Learning**
+  - [LLM-Agent-Paper-Digest](https://github.com/XueyangFeng/LLM-Agent-Paper-Digest)
+  - [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers)
+  - [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
+  - [XLang Paper Reading](https://github.com/xlang-ai/xlang-paper-reading)
+- **Tools**
+  - [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)
+  - [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent)
+  - [Awesome LMs with Tools](https://github.com/zorazrw/awesome-tool-llm)
+
+### 🤖 Robotics
+
+- [Awesome-Robotics-Foundation-Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)
+- [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
+- [Simulately](https://github.com/geng-haoran/Simulately)
+
+### 🔬 Science
+
+#### ♾️ AI for Math
+
+- [Awesome-Scientific-Language-Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)
+
+This structured list organizes the various resources by modality, providing a clear view of repositories and collections across different domains of LLM applications.
+
+
+
+## Trending LLM Projects
+- [Omost](https://github.com/lllyasviel/Omost) - a project to convert LLM's coding capability to image generation (or more accurately, image composing) capability.
+- [llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3.
+- [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - A GPT-4V Level Multimodal LLM on Your Phone.
+- [fabric](https://github.com/danielmiessler/fabric) - an open-source framework for augmenting humans using AI.
+
+
+
 
 ## Milestone Papers
 
