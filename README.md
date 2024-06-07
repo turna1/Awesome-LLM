@@ -8,17 +8,8 @@
 
 # Table of Contents
 
+- [Trending Survey Repo on LLM](#trending-survey-repo-on-llm)
 - [LLM by Modality](#llm-by-modality)
-  - [Vision](#vision)
-    - [Image](#image)
-    - [Video](#video)
-    - [3D](#3d)
-    - [Document](#document)
-  - [Audio](#audio)
-  - [Agent](#agent)
-  - [Robotics](#robotics)
-  - [Science](#science)
-    - [AI for Math](#ai-for-math)
 - [Milestone Papers](#milestone-papers)
 - [Other Papers](#other-papers)
 - [LLM Leaderboard](#llm-leaderboard)
@@ -32,20 +23,7 @@
 - [Great Thoughts about LLM](#great-thoughts-about-llm)
 - [Miscellaneous](#miscellaneous)
 
-# Table of Content
-  - [Milestone Papers](#milestone-papers)
-  - [Milestone Papers](#milestone-papers)
-  - [Other Papers](#other-papers)
-  - [LLM Leaderboard](#llm-leaderboard)
-  - [Open LLM](#open-llm)
-  - [LLM Data](#llm-data)
-  - [LLM Evaluation](#llm-evaluation)
-  - [LLM Training Framework](#llm-training-frameworks)
-  - [LLM Deployment](#llm-deployment)
-  - [LLM Applications](#llm-applications)
-  - [LLM Books](#llm-books)
-  - [Great thoughts about LLM](#great-thoughts-about-llm)
-  - [Miscellaneous](#miscellaneous)
+
 
 ## Trending Survey Repo on LLM
 -[Multimoal LLM](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
