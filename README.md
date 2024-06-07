@@ -1,5 +1,5 @@
-This repo is forked and inspired by Awesome LLM [https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists]
-# Awesome-LLM by Rahatara [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[This repo is forked and inspired by Awesome LLM (https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists])]
+# Awesome-LLM by Rahatara [![Awesome](https://awesome.re/badge.svg)]
 
 ![](resources/image8.gif)
 
