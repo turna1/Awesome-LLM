@@ -3,7 +3,7 @@
 
 ![](resources/image8.gif)
 
-🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
+🔥 Large Language Models (LLMs) have captured the attention of the Whole World. In the realm of railway defect inspection using Generative AI within the Digital Twin paradigm, grasping how LLMs process multimodal data is vital. Understanding this process is key to developing systems that can seamlessly integrate and analyze varied data sources, such as images, texts, and sensor data, enhancing the accuracy and efficiency of defect detection. This curated collection features pivotal research on LLMs, focusing on ChatGPT, and details frameworks for training, tools for deployment, and educational resources.
 ## Trending LLM Survey Repo
 -[Multimoal LLM](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 -[Video Understanding](https://github.com/Shubhamsaboo/awesome-llm-apps)
