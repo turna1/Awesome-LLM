@@ -9,6 +9,7 @@
 
 -[Video Understanding](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
+-[LLM-Safety](https://github.com/ydyjya/Awesome-LLM-Safety)
 
 ## Trending LLM Projects
 - [Omost](https://github.com/lllyasviel/Omost) - a project to convert LLM's coding capability to image generation (or more accurately, image composing) capability.
