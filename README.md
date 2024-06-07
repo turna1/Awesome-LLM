@@ -5,6 +5,33 @@
 
 🔥 Large Language Models (LLMs) have captured the attention of the Whole World. In the realm of railway defect inspection using Generative AI within the Digital Twin paradigm, grasping how LLMs process multimodal data is vital. Understanding this process is key to developing systems that can seamlessly integrate and analyze varied data sources, such as images, texts, and sensor data, enhancing the accuracy and efficiency of defect detection. This curated collection features pivotal research on LLMs, focusing on ChatGPT, and details frameworks for training, tools for deployment, and educational resources.
 
+
+# Table of Contents
+
+- [LLM by Modality](#llm-by-modality)
+  - [Vision](#vision)
+    - [Image](#image)
+    - [Video](#video)
+    - [3D](#3d)
+    - [Document](#document)
+  - [Audio](#audio)
+  - [Agent](#agent)
+  - [Robotics](#robotics)
+  - [Science](#science)
+    - [AI for Math](#ai-for-math)
+- [Milestone Papers](#milestone-papers)
+- [Other Papers](#other-papers)
+- [LLM Leaderboard](#llm-leaderboard)
+- [Open LLM](#open-llm)
+- [LLM Data](#llm-data)
+- [LLM Evaluation](#llm-evaluation)
+- [LLM Training Frameworks](#llm-training-frameworks)
+- [LLM Deployment](#llm-deployment)
+- [LLM Applications](#llm-applications)
+- [LLM Books](#llm-books)
+- [Great Thoughts about LLM](#great-thoughts-about-llm)
+- [Miscellaneous](#miscellaneous)
+
 # Table of Content
   - [Milestone Papers](#milestone-papers)
   - [Milestone Papers](#milestone-papers)
