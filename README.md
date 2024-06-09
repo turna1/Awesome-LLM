@@ -1,7 +1,7 @@
 ## This repo is forked from the [[Awesome Repo](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists)]
 # Awesome-LLM by Rahatara [![Awesome](https://awesome.re/badge.svg)]
 
-![](resources/animated_wordcloud_loop(1).gif)
+![](resources/animated_wordcloud_loop (1).gif)
 
 🔥 Large Language Models (LLMs) have captured the attention of the Whole World. In the realm of railway defect inspection using Generative AI within the Digital Twin paradigm, grasping how LLMs process multimodal data is vital. Understanding this process is key to developing systems that can seamlessly integrate and analyze varied data sources, such as images, texts, and sensor data, enhancing the accuracy and efficiency of defect detection. This curated collection features pivotal research on LLMs, focusing on ChatGPT, and details frameworks for training, tools for deployment, and educational resources.
 
